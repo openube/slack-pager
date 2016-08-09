@@ -17,7 +17,7 @@
 ##        command_line     /path/to/nagios-to-slack.sh
 ##        }
 ##
-## Nagios caontacts.cfg example:
+## Nagios contacts.cfg example:
 ## define contact {
 ##        contact_name                     slack
 ##        alias                            Slack

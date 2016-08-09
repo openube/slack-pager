@@ -24,7 +24,7 @@ define command {
        }
 ```
 
-Nagios caontacts.cfg example:
+Nagios contacts.cfg example:
 ```
 define contact {
        contact_name                     slack
